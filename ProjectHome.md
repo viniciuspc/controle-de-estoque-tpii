@@ -1,0 +1,1 @@
+Projeto de uma aplicação web de controle de estoque feita para a disciplina de tecnicas de programação 2.
